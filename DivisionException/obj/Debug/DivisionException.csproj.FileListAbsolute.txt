@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\DivisionException\bin\Debug\DivisionException.exe.config
+C:\Users\shahi\source\repos\DivisionException\bin\Debug\DivisionException.exe
+C:\Users\shahi\source\repos\DivisionException\bin\Debug\DivisionException.pdb
+C:\Users\shahi\source\repos\DivisionException\obj\Debug\DivisionException.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\DivisionException\obj\Debug\DivisionException.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\DivisionException\obj\Debug\DivisionException.exe
+C:\Users\shahi\source\repos\DivisionException\obj\Debug\DivisionException.pdb

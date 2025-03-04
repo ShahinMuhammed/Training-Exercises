@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\TrainingExercises\bin\Debug\TrainingExercises.exe.config
+C:\Users\shahi\source\repos\TrainingExercises\bin\Debug\TrainingExercises.exe
+C:\Users\shahi\source\repos\TrainingExercises\bin\Debug\TrainingExercises.pdb
+C:\Users\shahi\source\repos\TrainingExercises\obj\Debug\TrainingExercises.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\TrainingExercises\obj\Debug\TrainingExercises.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\TrainingExercises\obj\Debug\TrainingExercises.exe
+C:\Users\shahi\source\repos\TrainingExercises\obj\Debug\TrainingExercises.pdb

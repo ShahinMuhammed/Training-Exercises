@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\ECommerceTask\bin\Debug\ECommerceTask.exe.config
+C:\Users\shahi\source\repos\ECommerceTask\bin\Debug\ECommerceTask.exe
+C:\Users\shahi\source\repos\ECommerceTask\bin\Debug\ECommerceTask.pdb
+C:\Users\shahi\source\repos\ECommerceTask\obj\Debug\ECommerceTask.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\ECommerceTask\obj\Debug\ECommerceTask.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\ECommerceTask\obj\Debug\ECommerceTask.exe
+C:\Users\shahi\source\repos\ECommerceTask\obj\Debug\ECommerceTask.pdb
