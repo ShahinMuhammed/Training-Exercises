@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\ArrayAndMethods\bin\Debug\ArrayAndMethods.exe.config
+C:\Users\shahi\source\repos\ArrayAndMethods\bin\Debug\ArrayAndMethods.exe
+C:\Users\shahi\source\repos\ArrayAndMethods\bin\Debug\ArrayAndMethods.pdb
+C:\Users\shahi\source\repos\ArrayAndMethods\obj\Debug\ArrayAndMethods.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\ArrayAndMethods\obj\Debug\ArrayAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\ArrayAndMethods\obj\Debug\ArrayAndMethods.exe
+C:\Users\shahi\source\repos\ArrayAndMethods\obj\Debug\ArrayAndMethods.pdb

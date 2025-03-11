@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\MathAndString\obj\Debug\MathAndString.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\MathAndString\obj\Debug\MathAndString.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\MathAndString\bin\Debug\MathAndString.exe.config
+C:\Users\shahi\source\repos\MathAndString\bin\Debug\MathAndString.exe
+C:\Users\shahi\source\repos\MathAndString\bin\Debug\MathAndString.pdb
+C:\Users\shahi\source\repos\MathAndString\obj\Debug\MathAndString.exe
+C:\Users\shahi\source\repos\MathAndString\obj\Debug\MathAndString.pdb

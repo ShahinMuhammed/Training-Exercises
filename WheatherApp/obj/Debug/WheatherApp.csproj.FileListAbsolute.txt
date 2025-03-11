@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\WheatherApp\bin\Debug\WheatherApp.exe.config
+C:\Users\shahi\source\repos\WheatherApp\bin\Debug\WheatherApp.exe
+C:\Users\shahi\source\repos\WheatherApp\bin\Debug\WheatherApp.pdb
+C:\Users\shahi\source\repos\WheatherApp\obj\Debug\WheatherApp.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\WheatherApp\obj\Debug\WheatherApp.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\WheatherApp\obj\Debug\WheatherApp.exe
+C:\Users\shahi\source\repos\WheatherApp\obj\Debug\WheatherApp.pdb
