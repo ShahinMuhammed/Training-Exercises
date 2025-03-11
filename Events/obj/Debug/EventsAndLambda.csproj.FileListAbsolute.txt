@@ -1,0 +1,14 @@
+C:\Users\shahi\source\repos\EventsAndLambda\bin\Debug\EventsAndLambda.exe.config
+C:\Users\shahi\source\repos\EventsAndLambda\bin\Debug\EventsAndLambda.exe
+C:\Users\shahi\source\repos\EventsAndLambda\bin\Debug\EventsAndLambda.pdb
+C:\Users\shahi\source\repos\EventsAndLambda\obj\Debug\EventsAndLambda.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\EventsAndLambda\obj\Debug\EventsAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\EventsAndLambda\obj\Debug\EventsAndLambda.exe
+C:\Users\shahi\source\repos\EventsAndLambda\obj\Debug\EventsAndLambda.pdb
+C:\Users\shahi\source\repos\Events\bin\Debug\EventsAndLambda.exe.config
+C:\Users\shahi\source\repos\Events\bin\Debug\EventsAndLambda.exe
+C:\Users\shahi\source\repos\Events\bin\Debug\EventsAndLambda.pdb
+C:\Users\shahi\source\repos\Events\obj\Debug\EventsAndLambda.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\Events\obj\Debug\EventsAndLambda.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\Events\obj\Debug\EventsAndLambda.exe
+C:\Users\shahi\source\repos\Events\obj\Debug\EventsAndLambda.pdb

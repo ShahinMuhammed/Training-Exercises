@@ -1,0 +1,7 @@
+C:\Users\shahi\source\repos\DelegatesEventsLambda\bin\Debug\DelegatesEventsLambda.exe.config
+C:\Users\shahi\source\repos\DelegatesEventsLambda\bin\Debug\DelegatesEventsLambda.exe
+C:\Users\shahi\source\repos\DelegatesEventsLambda\bin\Debug\DelegatesEventsLambda.pdb
+C:\Users\shahi\source\repos\DelegatesEventsLambda\obj\Debug\DelegatesEventsLambda.csproj.AssemblyReference.cache
+C:\Users\shahi\source\repos\DelegatesEventsLambda\obj\Debug\DelegatesEventsLambda.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\DelegatesEventsLambda\obj\Debug\DelegatesEventsLambda.exe
+C:\Users\shahi\source\repos\DelegatesEventsLambda\obj\Debug\DelegatesEventsLambda.pdb
